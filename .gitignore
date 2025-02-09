@@ -4,6 +4,21 @@
 *.o
 *.obj
 
+# Directories
+.vs/
+Binaries/
+glm/Debug/
+glm/glm.dir/
+x64/
+
+# Files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.log
+Makefile
+
 # Precompiled Headers
 *.gch
 *.pch
